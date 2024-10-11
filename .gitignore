@@ -1,1 +1,7 @@
-logs/scheduler/latest/
+logs
+.env
+logs
+plugins
+scripts
+dags/__pycache__
+clickhouse
