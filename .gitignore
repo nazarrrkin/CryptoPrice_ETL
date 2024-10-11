@@ -1,7 +1,6 @@
-logs
-.env
-logs
-plugins
-scripts
+logs/
+.env/
+plugins/
+scripts/
 dags/__pycache__
-clickhouse
+clickhouse/
