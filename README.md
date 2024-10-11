@@ -1,4 +1,5 @@
-### Realtime cryptocurrency prices streaming
+# Realtime cryptocurrency prices streaming
+
 ## Intoduction
 This project provides a full ETL pipeline for streamig cryptocurrency prices. The hidden api of the crypto exchange are used as data sources.
 
